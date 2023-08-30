@@ -2,6 +2,7 @@ Hank, Beugard, Big Sur
 Y'all know how this - go, you know
 All eyes on me, OG
 Roll up in the club and shit (is that right?)
+<<<<<<< HEAD
 
 I bet you got it twisted, you don't know who to trust
 So many player-hatin' - tryna sound like us
@@ -12,3 +13,7 @@ And let these devils be sorry for the day they finally freed me
 I got a caravan of - every time we ride
 Hittin' - up when we pass by
 ------------------------------------
+=======
+All eyes on me
+All eyes on me
+>>>>>>> 14966f5f2a1b05dec17b53c2e122c90e472e0f49
